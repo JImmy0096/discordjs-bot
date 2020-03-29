@@ -1,0 +1,20 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "just a bot",
+  "main": "bot.js",
+  "dependencies": {
+    "@pm2/io": "^4.3.3",
+    "discord.js": "^12.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "竺.#9220",
+  "license": "ISC",
+  "keywords": [
+    "discordjs",
+    "bot"
+  ]
+}
