@@ -1,2 +1,2 @@
 # discordjs-bot
- a discord use discordjs api
+ a discord bot code made using discordjs api
