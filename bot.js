@@ -73,7 +73,7 @@ client.on('message', message => {
 		console.error(error);
 	}
 
-	if(message.content  == `<@!578076907975999498>`) message.reply(`Why are you fucking tag me?`);
+	if(message.content  == `<@!578076907975999498>`) message.reply(`Why are you fucking ping me?`);
 
 	//如果在554967788188467225,則確認快速刪除訊息
 	try {
