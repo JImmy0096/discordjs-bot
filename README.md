@@ -30,7 +30,6 @@
   - verification
     - 傳送伺服器驗證訊息
 
----
 ## Help
 
 如有關於此機器人的問題請加入我的[discord伺服器](https://discord.gg/YvqAyXU),與我一同討論!  <a href="https://discord.gg/YvqAyXU"><img src="https://discordapp.com/api/guilds/554967788188467225/embed.png" alt="L.S.N.R.T.C林森北路教學中心" /></a>
