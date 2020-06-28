@@ -5,7 +5,6 @@
   </p>
 </div>
 
-#### 這是一個discord的機器人 (由discord.js api編寫)
 ---
 ## Commands
   - avatar
@@ -37,3 +36,6 @@
 如有關於此機器人的問題請加入我的[discord伺服器](https://discord.gg/YvqAyXU),與我一同討論!  <a href="https://discord.gg/YvqAyXU"><img src="https://discordapp.com/api/guilds/554967788188467225/embed.png" alt="L.S.N.R.T.C林森北路教學中心" /></a>
 
 ![L.S.N.R.T.C林森北路教學中心](https://cdn.discordapp.com/icons/554967788188467225/65bcdfb9ea961cc6099e0119cb7c47c1.webp)
+
+## Reference
+[discord.js](https://discord.js.org/#/)
